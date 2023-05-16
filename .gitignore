@@ -30,3 +30,12 @@
 *.exe
 *.out
 *.app
+/Saved
+/Intermediate
+/Content
+/Config
+/Binaries/Win64
+/.vs/TryingUE/v17
+/TryingUE.uproject
+/TryingUE.sln
+/.vsconfig
